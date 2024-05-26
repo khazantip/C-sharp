@@ -1,0 +1,7 @@
+F:\C++\C#\Cross\obj\Debug\net6.0-windows\Cross.csproj.AssemblyReference.cache
+F:\C++\C#\Cross\obj\Debug\net6.0-windows\Cross.Form1.resources
+F:\C++\C#\Cross\obj\Debug\net6.0-windows\Cross.csproj.GenerateResource.cache
+F:\C++\C#\Cross\obj\Debug\net6.0-windows\Cross.GeneratedMSBuildEditorConfig.editorconfig
+F:\C++\C#\Cross\obj\Debug\net6.0-windows\Cross.AssemblyInfoInputs.cache
+F:\C++\C#\Cross\obj\Debug\net6.0-windows\Cross.AssemblyInfo.cs
+F:\C++\C#\Cross\obj\Debug\net6.0-windows\Cross.csproj.CoreCompileInputs.cache
